@@ -46,7 +46,7 @@ Make sure you're working on **your fork**, not the original repository.
 
 Open the `README.md` file.
 
-Click the **pencil (✏️) icon** to edit it directly on GitHub.
+Click the **pencil (✏️) icon** on top right corner to edit it directly on GitHub.
 
 Now make a small contribution.
 
